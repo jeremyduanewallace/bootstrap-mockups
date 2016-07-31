@@ -25,10 +25,11 @@ li{
 .push-left{
   width: 50%;
   float: left;
+  
 }
 
 .push-right{
-  width: 50%;
+  width: 25%;
   float: right;
   
 }
@@ -53,10 +54,14 @@ h3{
  }
 
  .box{
-  background-image: url(image/snow-house.jpg);
+  background-image: url(http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg);
   background-color: grey;
   height: 480px;
-  
+ }
+
+ .box1{
+  text-align: center;
+  background-color: #F5F5F5;
  }
 
  h1{
@@ -65,7 +70,7 @@ h3{
  }
 
 .banner{
-  background-color: grey;
+  background-color: #B8B8B8;
 
 }
 
@@ -74,10 +79,24 @@ img{
 }
 .push-right-play-pause{
   float: right;
+  padding-top: 9px;
+  padding-right: 10px;
 }
 .color{
-  background-color: pink;
+  background-color: ;
+  
+  height: 50px;
 }
+
+.footer-link{
+  height: 500px;
+  border: 2px solid red;
+}
+
+.snow-house{
+
+}
+
 
 
 

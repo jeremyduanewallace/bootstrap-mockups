@@ -52,10 +52,32 @@ h3{
   padding-bottom: 20px;
  }
 
- .snow-house{
-  background-image: url(images/snow-house.jpg);
+ .box{
+  background-image: url(image/snow-house.jpg);
+  background-color: grey;
+  height: 480px;
+  
  }
 
+ h1{
+  font-weight: bold;
+  font-size: 16px;
+ }
+
+.banner{
+  background-color: grey;
+
+}
+
+img{
+  padding: 5px;
+}
+.push-right-play-pause{
+  float: right;
+}
+.color{
+  background-color: pink;
+}
 
 
 

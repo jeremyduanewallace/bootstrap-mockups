@@ -1,6 +1,4 @@
-body{
-  /*background-color: blue;*/
-}
+
 
 .img-responsive{
   width: 100%;
@@ -54,9 +52,13 @@ h3{
  }
 
  .box{
-  background-image: url(http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg);
-  background-color: grey;
-  height: 480px;
+  width: 500px;
+  color: white;
+  position: relative;
+  left: 200px;
+  top: 130px;
+  
+
  }
 
  .box1{
@@ -89,15 +91,37 @@ img{
 }
 
 .footer-link{
-  height: 500px;
+  height: 250px;
   border: 2px solid red;
+  
 }
 
 .snow-house{
+  background-image: url(http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg);
+  height: 480px;
+}
+
+.move-left{
+  width: 30%;
+  border: 2px solid red;
+  float: left;
 
 }
 
+.move-right{
+  width: 50%;
+  border: 2px solid red;
+  float: right;
+  margin-top: 10px;
 
+}
+
+.fix-link{
+margin-top: 500px;
+}
+
+ 
+ 
 
 
 

@@ -63,8 +63,8 @@ h3{
 
  .box1{
   text-align: center;
-  background-color: #F5F5F5;
-  border: 2px solid red;
+  /*background-color: #F5F5F5;*/
+  /*border: 2px solid red;*/
   width: 200px;
   height: 230px;
   padding-top: 10px;
@@ -97,7 +97,7 @@ img{
 
 .footer-link{
   height: 250px;
-  border: 2px solid red;
+  /*border: 2px solid red;*/
   
 }
 
@@ -108,14 +108,14 @@ img{
 
 .move-left{
   width: 30%;
-  border: 2px solid red;
+  /*border: 2px solid red;*/
   float: left;
 
 }
 
 .move-right{
   width: 50%;
-  border: 2px solid red;
+  /*border: 2px solid red;*/
   float: right;
   margin-top: 10px;
 
